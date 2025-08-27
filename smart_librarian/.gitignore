@@ -1,0 +1,14 @@
+# fișiere de mediu
+.env
+smart_librarian/.env
+
+# foldere generate
+__pycache__/
+outputs/
+
+.venv/
+venv/
+
+# ignoră baza de date Chroma
+smart_librarian/chroma_db/
+chroma_db/

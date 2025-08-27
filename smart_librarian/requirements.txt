@@ -1,0 +1,10 @@
+chromadb
+openai
+python-dotenv
+streamlit
+streamlit-webrtc
+av
+numpy
+pydub
+soundfile
+

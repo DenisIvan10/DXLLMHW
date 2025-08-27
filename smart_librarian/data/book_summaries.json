@@ -1,0 +1,50 @@
+[
+  {
+    "title": "1984",
+    "summary": "O societate distopică sub controlul total al statului și al propagandei. Winston Smith încearcă să găsească adevărul și libertatea într-un sistem opresiv. Tematici: control social, libertate, manipulare ideologică."
+  },
+  {
+    "title": "The Hobbit",
+    "summary": "Bilbo Baggins pleacă într-o aventură neașteptată alături de pitici și vrăjitori pentru a recupera o comoară păzită de dragonul Smaug. Tematici: prietenie, curaj, aventură, descoperire de sine."
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "summary": "O poveste despre copilărie și prejudecăți rasiale în sudul Statelor Unite. Atticus Finch luptă pentru dreptate și moralitate într-o societate divizată. Tematici: justiție, rasism, empatie, familie."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "summary": "Elizabeth Bennet și Mr. Darcy navighează printre prejudecăți sociale, mândrie și iubire. Tematici: dragoste, statut social, familie, maturizare."
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "summary": "Un băiat descoperă că este vrăjitor și intră într-o lume plină de magie, prietenii și pericole. Tematici: prietenie, magie, curaj, apartenență."
+  },
+  {
+    "title": "The Great Gatsby",
+    "summary": "Jay Gatsby organizează petreceri opulente în speranța de a-și recâștiga iubirea pierdută. Roman despre visul american, iubire și deziluzie. Tematici: bogăție, iubire, visul american, superficialitate."
+  },
+  {
+    "title": "Moby Dick",
+    "summary": "Căpitanul Ahab pornește într-o căutare obsesivă pentru balena albă. O meditație asupra obsesiei, naturii și destinului. Tematici: obsesie, natură, destin, răzbunare."
+  },
+  {
+    "title": "Brave New World",
+    "summary": "O societate futuristă, aparent perfectă, unde oamenii sunt controlați prin tehnologie și condiționare socială. Tematici: libertate, control, tehnologie, individualitate."
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "summary": "Holden Caulfield povestește despre frământările adolescenței și căutarea identității într-o lume pe care o percepe falsă. Tematici: alienare, maturizare, identitate, sinceritate."
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "summary": "Un grup divers pornește într-o aventură epică pentru a distruge Inelul Puterii și a salva lumea. Tematici: prietenie, sacrificiu, bine vs rău, eroism."
+  },
+  {
+    "title": "Fahrenheit 451",
+    "summary": "Într-o lume unde cărțile sunt interzise, Guy Montag descoperă importanța cunoașterii și a gândirii libere. Tematici: libertate intelectuală, cenzură, conformism."
+  },
+  {
+    "title": "Crime and Punishment",
+    "summary": "Raskolnikov comite o crimă și este chinuit de vinovăție, explorând sensul moralității și al pedepsei. Tematici: vinovăție, moralitate, răscumpărare, psihologie."
+  }
+]
